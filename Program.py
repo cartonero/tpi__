@@ -23,6 +23,21 @@ MENU = """
 ********************************************
 """
 
+#********************************************
+#     Administración de Turnos Médicos
+#     1. Mostrar Médicos
+#     2. Agregar Médico
+#     3. Mostrar Pacientes
+#     4. Agregar Paciente
+#     5. Mostrar Turnos
+#     6. Agregar Turno
+#     7. Confirmar Turno
+#     8. Cancelar Turno
+#     9. Finalizar Turno
+#    0. Salir
+#********************************************
+
+
 def main():
     while True:
         print(MENU)

@@ -35,5 +35,5 @@ class Turno:
 
     def mostrar_datos(self):
         print(f"Paciente: {self.__paciente.nombre} {self.__paciente.apellido} | "
-              f"Médico: {self.__medico.nombre} {self.__medico.apellido} | "
-              f"Fecha/Hora: {self.__fecha_hora} | Estado: {self.__estado}")
+                f"Médico: {self.__medico.nombre} {self.__medico.apellido} | "
+                f"Fecha/Hora: {self.__fecha_hora} | Estado: {self.__estado}")
