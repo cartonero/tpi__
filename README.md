@@ -75,9 +75,8 @@ PENDIENTE ──confirmar──> CONFIRMADO ──finalizar──> FINALIZADO
 
 ## Diagrama UML
 
-El diagrama de clases completo (entidades + patrón State) se encuentra en [`docs/diagrama-uml.png`](docs/diagrama-uml.png).
+El diagrama de clases completo (entidades + patrón State) se encuentra en  (  https://drive.google.com/drive/folders/1-kIo9UahqZwZRyRTv9igBZeNVs3pwEse?usp=sharing ).
 
-> Si todavía no subiste la imagen del diagrama, agregala en una carpeta `docs/` en la raíz del repositorio con ese nombre para que el link funcione.
 
 ## Instrucciones de ejecución
 
@@ -126,10 +125,4 @@ El diagrama de clases completo (entidades + patrón State) se encuentra en [`doc
 5. Confirmar el turno (opción 7) — pasa a `CONFIRMADO`.
 6. Intentar confirmarlo de nuevo (opción 7) para ver el control de transiciones inválidas en acción.
 
-## Autores
 
-_Completar con los nombres del grupo._
-
-## Materia / Cátedra
-
-_Completar con el nombre de la materia y la cátedra._
